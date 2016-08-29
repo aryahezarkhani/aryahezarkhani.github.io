@@ -1,0 +1,46 @@
+#rss-buck h1 {
+    font: normal normal 14px/1.4 Helvetica,Roboto,"Segoe UI",Calibri,sans-serif;
+    font-size: 21px;
+    font-weight: 300;
+    border-bottom: 1px solid #0F3638;
+    padding: 10px;
+    margin: 0;
+    letter-spacing: -0.4px;
+}
+
+.post_results {
+    border-radius: 13px;
+    float:left;
+    overflow-y: auto;
+    height: 339px;
+}
+
+.post_results ul {
+    list-style:none;
+    text-align:left;
+    padding:0;
+    margin: 0;
+}
+.post_results ul li {
+    background: white;
+    padding: 10px;
+    border-bottom: 1px solid #0F3638;
+}
+
+.post_results ul li a{
+    color: #0F3638;
+    display: block;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    text-decoration: none;
+    margin-bottom:5px;
+}
+
+.post_results ul li p {
+    color: #0F3638;
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+    margin: 0;
+}
