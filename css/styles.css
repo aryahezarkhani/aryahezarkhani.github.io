@@ -766,7 +766,7 @@ nav .button:hover {
 }
 
 #director img{
-    width: 100%;
+    width: 100%;    
 }
 
 #director p {
@@ -777,6 +777,11 @@ nav .button:hover {
 #director:first-of-type {
     font-size: 8px;
     margin-left: 5%;
+}
+
+#director:last-of-type {
+    margin-right: 0;
+    margin-bottom: 0;
 }
 
 #director #link {
