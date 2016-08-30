@@ -765,6 +765,10 @@ nav .button:hover {
     margin-top: 10px;
 }
 
+#director img{
+    width: 100%;
+}
+
 #director p {
     font-size: 8px;
     font-style: italic;
@@ -777,6 +781,7 @@ nav .button:hover {
 
 #director #link {
     margin-top: 0;
+    width: 16.4%;
 }
 
 #director #small-orange-title {
