@@ -91,6 +91,12 @@ html, body {
     background-size: cover;
 }
 
+/* Runaway PAGE BANNER */
+#runaway .picture-half {
+    background: url(../images/runaway.jpeg);
+    background-size: cover;
+}
+
 #resources {
     background-color: #98B0B1;
 }
